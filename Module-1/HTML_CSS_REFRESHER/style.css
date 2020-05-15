@@ -1,0 +1,109 @@
+html,
+body {
+  height: 100%;
+  font-family: sans-serif;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-container {
+  height: 100%;
+  grid-template-columns: 1fr minmax(350px, 350px) minmax(350px, 350px) 1fr;
+  grid-template-rows: auto 215px auto;
+  grid-gap: 15px;
+  grid-template-areas: "r-1 r-1 r-1 r-1""r-2-a member-1 member-2 r-2-b""r-3 r-3 r-3 r-3";
+}
+
+.member {
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas: "m-1 m-1 m-1 m-1 m-5""middle middle middle middle middle""bottom bottom bottom bottom bottom";
+  border: 0.5px solid rgba(169, 169, 169, 0.5);
+  border-radius: 5px;
+  box-shadow: 1px 2px 5px 0.2px rgba(169, 169, 169, 0.4);
+}
+
+.member-1 {
+  grid-area: member-1;
+}
+
+.member-2 {
+  grid-area: member-2;
+}
+
+.member-row-1 {
+  grid-area: m-1;
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.member-row-1>div {
+  padding-left: 15px;
+}
+
+.member-row-1-name {
+  padding-top: 10px;
+  font-size: 18px;
+}
+
+.member-row-1-status {
+  font-size: 15px;
+  color: rgb(167, 167, 167);
+}
+
+.member-row-1-picture {
+  display: flex;
+  grid-area: m-5;
+  align-items: center;
+  justify-content: center;
+}
+
+.member-row-2 {
+  grid-area: middle;
+  padding: 0px 15px 0px 15px;
+  align-content: center;
+  font-size: 17px;
+}
+
+.member-row-3 {
+  grid-area: bottom;
+  grid-template-areas: " bottom-left bottom-right";
+  border-top: 0.5px solid rgba(169, 169, 169, 0.5);
+}
+
+.member-row-3-left {
+  align-content: center;
+  justify-content: end;
+  grid-area: bottom-left;
+}
+
+.member-row-3-right {
+  align-content: center;
+  justify-content: start;
+  grid-area: bottom-right;
+}
+
+.button {
+  background-color: white;
+  text-align: center;
+  cursor: pointer;
+  padding: 12px 50px;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.button-approve {
+  color: #08c033;
+  border: 1px solid #08c033;
+  border-right: none;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.button-decline {
+  color: red;
+  border: 1px solid red;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
