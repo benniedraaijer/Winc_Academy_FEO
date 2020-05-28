@@ -17,7 +17,7 @@ Vanaf de start worden de studenten **wekelijks** **beoordeeld** en delen we hun 
 - feedback & goalsetting voor de 'oranje blokken'
 - coaching & stretching voor de 'groene blokken'
 
-![](PERFORMANCE-GRID.png)
+![](img-performance-grid.png)
 
 Aan het einde van week 3 en week 4 is een go/ no go moment.
 
@@ -75,8 +75,6 @@ Na 6 weken krijgen de kandidaten een finale beoordeling. Als ze niet slagen, dan
 - Performance
 - Native apps
 - Final assignment
-
-
 
 Kijk hier voor een [gedetailleerd 6 weken plan](https://www.notion.so/c41c297ffed441c0bca0a608399b9769)
 
