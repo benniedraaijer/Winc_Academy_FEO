@@ -14,10 +14,10 @@ De opleiding is gebaseerd op de methodiek van Project Based Learning en bestaat 
 
 Vanaf de start worden de studenten **wekelijks** **beoordeeld** en delen we hun ontwikkel-punten op basis van het 9-box-performance grid. Deze evaluatie momenten leiden tot:
 
-- feedback & goalsetting voor de 'oranje blokken'
-- coaching & stretching voor de 'groene blokken'
+* feedback & goalsetting voor de 'oranje blokken'
+* coaching & stretching voor de 'groene blokken'
 
-![](img-performance-grid.png)
+![Performance Frid](img-performance-grid.png)
 
 Aan het einde van week 3 en week 4 is een go/ no go moment.
 
@@ -27,54 +27,54 @@ Na 6 weken krijgen de kandidaten een finale beoordeling. Als ze niet slagen, dan
 
 ## Week 1: Webdevelopment, een introductie
 
-- System setup
-- HTML5
-- Git en Github
-- UI
-- CSS3
-- Duo opdracht
+* System setup
+* HTML5
+* Git en Github
+* UI
+* CSS3
+* Duo opdracht
 
 ## Week 2: User eXperience en interactie
 
-- User Story Mapping
-- Refinement
-- UX
-- Vanilla JavaScript
-- Feature Testing
-- LinkedIn aanmaken / bijwerken
-- Individual Assignment
+* User Story Mapping
+* Refinement
+* UX
+* Vanilla JavaScript
+* Feature Testing
+* LinkedIn aanmaken / bijwerken
+* Individual Assignment
 
 ## Week 3: Het RESTful web
 
-- Feedback ontvangen
-- Projectwerk
-- APIs en webcommunicatie
-- Unit testing
-- Databases
+* Feedback ontvangen
+* Projectwerk
+* APIs en webcommunicatie
+* Unit testing
+* Databases
 
 ## Week 4: Frontend frameworks
 
-- Feedback geven
-- React
-- Presenteren
-- Coaching geven en ontvangen
-- CV + LinkedIn + Github bijwerken
+* Feedback geven
+* React
+* Presenteren
+* Coaching geven en ontvangen
+* CV + LinkedIn + Github bijwerken
 
 ## Week 5: Patronen en paradigma's
 
-- Online communicatie
-- Paradigma's: Functional Programming, Object Oriented
-- Software patronen
-- Refactoren
-- State Management (ex: redux)
-- Peer 2 Peer feedback
+* Online communicatie
+* Paradigma's: Functional Programming, Object Oriented
+* Software patronen
+* Refactoren
+* State Management (ex: redux)
+* Peer 2 Peer feedback
 
 ## Week 6: Het moderne web en eindopdracht
 
-- Moderne browser APIs
-- Performance
-- Native apps
-- Final assignment
+* Moderne browser APIs
+* Performance
+* Native apps
+* Final assignment
 
 Kijk hier voor een [gedetailleerd 6 weken plan](https://www.notion.so/c41c297ffed441c0bca0a608399b9769)
 
