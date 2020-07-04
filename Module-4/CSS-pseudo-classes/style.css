@@ -54,9 +54,9 @@ body {
     margin: 0;
 }
 
- .nav-2 ul li:last-child:hover {
+.nav-2 ul li:last-child:hover {
     background-color: darkblue;
-} 
+}
 
 .nav-2 ul li a {
     color: white;
